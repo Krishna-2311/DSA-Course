@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int n;
+    cout<<"Please Enter the number"<<endl;
     cin>>n;
     int Sum=0;
     int dup=n;
