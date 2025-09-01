@@ -19,6 +19,6 @@ int main() {
         cout <<"The GCD is"<<" " <<b<<endl;
     }
     else
-    { cout <<"the GCD is" <<" "<<a<<endl;}
+    { cout <<"The GCD is" <<" "<<a<<endl;}
     return 0;
 }
