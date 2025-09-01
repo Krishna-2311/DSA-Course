@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int n;
+    cout<<"Please Enter the Number"<<endl;
     cin>>n;
     int dup=n;
     int revNum=0;
