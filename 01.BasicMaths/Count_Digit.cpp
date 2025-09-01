@@ -16,5 +16,5 @@ int countdigit(int n) {
 int main() {
     int num;
     cin >> num;
-    cout << "Digits: " << countdigit(num) << endl;
+    cout << "Digits " << countdigit(num) << endl;
 }
