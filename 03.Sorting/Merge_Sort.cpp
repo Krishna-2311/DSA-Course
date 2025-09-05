@@ -46,7 +46,7 @@ void mergeSort(vector<int> &arr, int low, int high)
 int main()
 {
     int n;
-    cout << "please Enter the Number" << endl;
+    cout << "Please Enter the Number" << endl;
     cin >> n;
     vector<int> arr(n);
     for (int i = 0; i < n; i++)
